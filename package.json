@@ -1,5 +1,23 @@
 {
-    "name": "electron-boilerplate",
-    "version": "0.0.1",
-    "main": "main.js"
+  "name": "electron-boilerplate",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^1.8.2"
+  },
+  "description": "boilerplate on electron platform",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhav2612/electron-boilerplate.git"
+  },
+  "author": "Sambhav Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambhav2612/electron-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sambhav2612/electron-boilerplate#readme"
 }
