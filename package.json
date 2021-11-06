@@ -6,7 +6,7 @@
     "start": "electron ."
   },
   "dependencies": {
-    "electron": "^1.8.2"
+    "electron": "^13.5.2"
   },
   "description": "boilerplate on electron platform",
   "devDependencies": {},
